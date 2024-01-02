@@ -1,6 +1,6 @@
 - 👋 Hi, I’m baran
-- 👀 I’m interested in getting better
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 I’m interested in hayatta kalmak..
+- 🌱 I’m currently learning hayatı..
 - 📫 How to reach me -> baransk.ce@gmail.com
 
 <!---

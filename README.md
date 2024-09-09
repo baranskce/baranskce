@@ -1,6 +1,3 @@
-- 👋 Hi, I’m baran
-- 👀 I’m interested in hayatta kalmak..
-- 🌱 I’m currently learning hayatı..
 - 📫 How to reach me -> baransk.ce@gmail.com
 
 <!---
